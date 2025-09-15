@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Bol Do Na Zara",
+      "singer": "Armaan Malik",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "songUrl": "Songs/Bol Do Na Zara.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Humnava Mere",
+      "singer": "Jubin Nautiyal",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "songUrl": "Songs/Humnava Mere.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Sanam Teri Kasam",
+      "singer": "Ankit Tiwari",
+      "genre": "Emotional",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c79ed9daa0ef22e185c71cd",
+      "songUrl": "Songs/Sanam Teri Kasam.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Idhayane",
+      "singer": "Anirudh Ravichandar",
+      "genre": "Romantic",
+      "imgUrl": "https://www.behindwoods.com/tamil-movies-cinema-news-16/images/idhayane-lyric-video-from-velaikkaran-to-release-today-photos-pictures-stills.jpg",
+      "songUrl": "Songs/Idhayane.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Mun Andhi",
+      "singer": "Karthik",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lDMxqxv5OsomI7qk3xJjyzxMxL4d9VwAhQ&s",
+      "songUrl": "Songs/Mun Andhi.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Halena",
+      "singer": "Harris Jayaraj",
+      "genre": "Romantic",
+      "imgUrl": "https://pbs.twimg.com/media/Coy14IAVUAAjRVK.jpg:large",
+      "songUrl": "Songs/Halena.mp3"
+    },
+    {
+      "id": 9,
+      "title": "SirikaDhey",
+      "singer": "Anirudh Ravichander",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9QnLB6wLRaxnpfqEv0hEsbxuIFperMGiYg&s",
+      "songUrl": "Songs/Sirikadhey.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Thean Kudika",
+      "singer": "Teejay",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uIQX2lZ-N_Gja7hnFeGVNzvas9qu10uISg&s",
+      "songUrl": "Songs/Thean Kudika.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": 6
+    },
+    {
+      "id": "dbde",
+      "itemId": 8,
+      "title": "Halena",
+      "imgUrl": "https://pbs.twimg.com/media/Coy14IAVUAAjRVK.jpg:large",
+      "genre": "Romantic",
+      "songUrl": "Songs/Mun Andhi.mp3",
+      "singer": "Harris Jayaraj"
+    },
+    {
+      "id": "091f",
+      "itemId": 9,
+      "title": "SirrikaDhey",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi9QnLB6wLRaxnpfqEv0hEsbxuIFperMGiYg&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/Sirrikadhey.mp3",
+      "singer": "Anirudh Ravichander"
+    },
+    {
+      "id": "a125",
+      "itemId": 10,
+      "title": "Thean Kudika",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uIQX2lZ-N_Gja7hnFeGVNzvas9qu10uISg&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/Thean Kudika.mp3",
+      "singer": "Teejay"
+    },
+    {
+      "id": "ac4a",
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh"
+    },
+    {
+      "id": "ea04",
+      "itemId": 3,
+      "title": "Humnava Mere",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Humnava Mere.mp3",
+      "singer": "Jubin Nautiyal"
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": 6
+    },
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 7
+    }
+  ]
+}
